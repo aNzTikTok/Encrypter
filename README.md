@@ -3,6 +3,8 @@ Shell Script Encrypter V3 By Dotycat
 
 ### I created this tool specifically for Debian and only tested it on Debian 10. If you're using another operating system and it works, please let me know. Thank you.
 
+www.t.me/anzclan
+
 ## INSTALLATION
 <pre><code>wget https://raw.githubusercontent.com/aNzTikTok/Encrypter/main/install-enc-x24.sh && chmod +x /root/install-enc-x24.sh && ./install-enc-x24.sh</code></pre>
 
