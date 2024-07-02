@@ -11,5 +11,6 @@ Shell Script Encrypter V3 By Dotycat
 - Then, upload the shell file that you want to encrypt to /root/enc.
 - Once the upload is complete, simply run the encrypter by typing enc. All shell files inside /root/enc will be encrypted, and the encrypted files will be saved in /root/enc/output, while the original files will be saved in the /root/enc folder.
 
-www.dotycat.com
-www.ifhax.com
+www.dotycat.com #THEDOTY
+<br/>
+www.ifhax.com #FREE VPN
